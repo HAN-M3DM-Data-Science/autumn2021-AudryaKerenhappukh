@@ -1,30 +1,54 @@
 ---
-title: "Assigment - Data Driven Decision Making"
-author: name author here
+title: "Assignment - Data Driven Decision Making"
+author: "Audrya Kerenhappukh"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
-
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KOhcXUGfsi8" title="Over 18 months super app Gojek grows 900x bigger with Google Cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Gojek has been growing tremendously throughout Sout Eas Asia for the past decade. tarting as an online taxibike service in 2010, Gojek is now recognized as a supperapp company offering over 20 services (e.g., transport, food delivery, courier logistics, instant shopping, professional massages, payments) on its mobile application. 
+
+With different services Gojek is offering to their customers, 3DM is important for Gojek to improve their performance and services.
+
+The insights they received from collecting a various types of data ranging from bookings and conversion, to mobile user experience have helped Gojek to resolve problems and strive for constant improvement and innovation in their products ("GOJEK'S success story with data-powered strategy", n.d.)
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+As mentioned in the video above, Gojek is partnering with Google Cloud where they are able to receive a ping from their drivers to know their location. This will let them know where drivers hang out together and enable Gojek to optimise drivers' trips so they can pick up riders on the way back (Tan, 2018.  Gojek also signal heat maps so drivers know where they are needed the most. ("GO-JEK Case Study  |  Google Cloud", 2019). 
+
+Using Google Cloud Platform, Gojek is also applying Cloud Machine Learning to effectively predict changes in demand due to events such as change in the weather. 
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Leveraging their partnership with Google Cloud, Gojek is now able to generate billions of events a day and analyse big data that amounts to 4TB a day (Tan, 2018). From the example mentioned in the previous section, signaling heat maps to their drivers allow them to make real-time decisions on their own. 
+
+Gojek has more interesting data-driven features to grow their business and improve customer experiences as the following examples:
+
+1.    Using machine learning to personalize search results in GoFood (James, 2019)
+![](https://res-5.cloudinary.com/hcq4cvthp/image/upload/q_auto/v1/ghost-blog-images/1_x4G3c6-g3z3mz01o2EJdbw.jpg){width=60%}
+ 
+2.    Using Natural Language Processing to name detailed pickup point, displayed exactly how customers and drivers usually refer to them (Xiaohong, 2020).
+![](https://res-2.cloudinary.com/hcq4cvthp/image/upload/q_auto/v1/ghost-blog-images/1_dFalBje-vQCkEY8Zrq9P5g.jpg){width=60%}
+
+3.    Built data-driven narrative to segment and appreciate their customers. This enables Gojek's customers feel good about themselves for being a part of a social cause in helping drivers and merchants (Ambhara, 2021)
+![The six segments of customers based on which Gojek service they used the most](https://blog.gojek.io/content/images/size/w600/2021/03/image-126.png){width=60%}
+
+
+## References 
+
+1.    GOJEK'S success story with data-powered strategy. Tableau. Retrieved 13 September 2021, from https://www.tableau.com/solutions/customer/gojek-achieves-robust-growth-with-data.
+2.    GO-JEK Case Study  |  Google Cloud. Google Cloud. (2019). Retrieved 13 September 2021, from https://cloud.google.com/customers/go-jek.
+3.    Tan, A. (2018). How Indonesia’s Go-Jek scales the heights with cloud. ComputerWeekly.com. Retrieved 13 September 2021, from https://www.computerweekly.com/news/252446425/How-Indonesias-Go-Jek-scales-the-heights-with-cloud.
+4.    Ambhara, I. (2021). Using Data To Appreciate Our Customers. Gojek Tech. Retrieved 13 September 2021, from https://blog.gojek.io/using-data-to-appreciate-our-customers/.
+5.    James, J. (2019). The Secret Sauce Behind Search Personalisation. Gojek Tech. Retrieved 13 September 2021, from https://blog.gojek.io/the-secret-sauce-behind-search-personalisation/.
+6.    Xiaohong, L. (2020). How Gojek Uses NLP to Name Pickup Points at Scale. Gojek Tech. Retrieved 13 September 2021, from https://blog.gojek.io/nlp-cartobert/.
