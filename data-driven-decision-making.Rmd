@@ -35,13 +35,16 @@ Leveraging their partnership with Google Cloud, Gojek is now able to generate bi
 Gojek has more interesting data-driven features to grow their business and improve customer experiences as the following examples:
 
 1.    Using machine learning to personalize search results in GoFood (James, 2019)
-![](https://res-5.cloudinary.com/hcq4cvthp/image/upload/q_auto/v1/ghost-blog-images/1_x4G3c6-g3z3mz01o2EJdbw.jpg){width=60%}
+
+![](https://res-5.cloudinary.com/hcq4cvthp/image/upload/q_auto/v1/ghost-blog-images/1_x4G3c6-g3z3mz01o2EJdbw.jpg){width=50%}
  
 2.    Using Natural Language Processing to name detailed pickup point, displayed exactly how customers and drivers usually refer to them (Xiaohong, 2020).
-![](https://res-2.cloudinary.com/hcq4cvthp/image/upload/q_auto/v1/ghost-blog-images/1_dFalBje-vQCkEY8Zrq9P5g.jpg){width=60%}
+
+![](https://res-2.cloudinary.com/hcq4cvthp/image/upload/q_auto/v1/ghost-blog-images/1_dFalBje-vQCkEY8Zrq9P5g.jpg){width=50%}
 
 3.    Built data-driven narrative to segment and appreciate their customers. This enables Gojek's customers feel good about themselves for being a part of a social cause in helping drivers and merchants (Ambhara, 2021)
-![The six segments of customers based on which Gojek service they used the most](https://blog.gojek.io/content/images/size/w600/2021/03/image-126.png){width=60%}
+
+![The six segments of customers based on which Gojek service they used the most](https://blog.gojek.io/content/images/size/w600/2021/03/image-126.png){width=50%}
 
 
 ## References 
@@ -52,3 +55,4 @@ Gojek has more interesting data-driven features to grow their business and impro
 4.    Ambhara, I. (2021). Using Data To Appreciate Our Customers. Gojek Tech. Retrieved 13 September 2021, from https://blog.gojek.io/using-data-to-appreciate-our-customers/.
 5.    James, J. (2019). The Secret Sauce Behind Search Personalisation. Gojek Tech. Retrieved 13 September 2021, from https://blog.gojek.io/the-secret-sauce-behind-search-personalisation/.
 6.    Xiaohong, L. (2020). How Gojek Uses NLP to Name Pickup Points at Scale. Gojek Tech. Retrieved 13 September 2021, from https://blog.gojek.io/nlp-cartobert/.
+7.    Wicaksono, G. (2020). The Effect Of Big Data On Smart Mobility Application For Company Business In Integrating Community Habits. CIT. Journal of Computing and Information Technology, 28(1). #http://ijdri.com/cit/2020/3.pdf
