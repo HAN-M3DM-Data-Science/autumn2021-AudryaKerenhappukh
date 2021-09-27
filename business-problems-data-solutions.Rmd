@@ -1,26 +1,36 @@
 ---
-title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+title: 'Data Problems vs Data Solutions - Unilever AI Recruitment Solution'
+author: "Audrya Kerenhappukh"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
+  html_document:
+    toc: yes
+    toc_depth: '2'
+    df_print: paged
   html_notebook:
     toc: yes
     toc_depth: 2
+    self_contained: no
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
-
-<---- Embed code here ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QfuGRCmXmCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What was the business problem?
+Unilever recruits more than 30,000 a people a year and process around 1.8 million job applicants (Marr, n.d.). This process takes a tremendous amount of time and resources if done manually. As finding the right people is one of the most important aspect in business, Unilever cannot afford to overlook talent just because it is buried at the bottom of a pile of CVs that are left unread. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+To solve the problem mentioned above, Unilever is replacing human recruiters with artificial intelligence system (Booth, 2019). The system is able to scan candidates' facial expressions, body language and choice of words. It produces an insight score for each candidate to compare a candidate to all of the other candidates.
+
+This solution could be translated into classification task (Provost & Fawcett, 2013). In Unilever case, a scorig model would be able to evaluate each individual candidate and produce a score of how likely each is to be able to be with clients and other people. 
 
 ## What is the realized business value?
+With this solution, Unilever is able to look for people with a sense of purpose, systemic thinking, resilience and business acumeen to see whether the would fit in at Unilever.  Unilever claimed to have saved 100,000 hours of interviewing time and roughly $1m in recruitment costs each year ( Booth, 2019).
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+## References 
+1. Marr, B. The Amazing Ways How Unilever Uses Artificial Intelligence To Recruit & Train Thousands Of Employees | Bernard Marr. Retrieved 27 September 2021, from https://bernardmarr.com/the-amazing-ways-how-unilever-uses-artificial-intelligence-to-recruit-train-thousands-of-employees/.
+
+2. Provost, F., & Fawcett, T. (2013). Data science for business. O'Reilly.https://bernardmarr.com/the-amazing-ways-how-unilever-uses-artificial-intelligence-to-recruit-train-thousands-of-employees/.
+
+3. Booth, R. (2019). Unilever saves on recruiters by using AI to assess job interviews. the Guardian. Retrieved 27 September 2021, from https://www.theguardian.com/technology/2019/oct/25/unilever-saves-on-recruiters-by-using-ai-to-assess-job-interviews.
