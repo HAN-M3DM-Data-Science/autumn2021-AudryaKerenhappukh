@@ -1,25 +1,42 @@
 ---
 title: "Assigment - Data Driven Business"
+author: "Audrya Kerenhappukh"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
+    self_contained: FALSE
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n_Cn8eFo7u8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XGw9iARGirQ?start=182" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Employees are the most important assets of any organization, and keeping their morale up is essential for any business to thrive, grow and innovate. For the sixth year running, Google has landed the top spot on Fortune's list of the Best Companies to Work For. Within their global HR function, Google has created People Analytics Department that supports the organisation with making HR decisions with data.
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+The basic assumption of the People Analytics approach is that accurate peopele management decisions are the most important and impactful decisions that a firm can make (Grace, 2021). Data and analytics are used to replaced opinions, feelings and intuitions of its managers and are now the foundation of all people-centric decisions (Talent Management and HR, 2014).
+
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Google has established the People and Innovation Lab, known as the "Pi-Lab" (Shrivastava et al, 2018). In this lab, group of Psychologists, decision scientists and researches gather to carry out applied research and development on organizational practices that govern its employees. One of their initiatives is "Project Oxygen", designed to find out what successful managers do. Performance ratings and employee feedback were analyzed and compared with productivity metrics to determine the impact of different leadership styles on employee engagement and productivity.
+
+Hiring and retention and employees is also one of the top priorities for Google.  Usually,managers use their intuition, assumptions and impressions to identify employees who arelikely to perform well or are likely to leave an organization. Google has now developed mathematical algorithms that use statistics to help make less subjective hiring and retention decisions.
+
+Google also used analytics to realize that innovation comes from a combination of three factors: discovery, teamwork and fun. They have framed policies to keep these factors in consideration. For example, the waiting lines in canteen at Google HQ have been intentionally kept long to enable employees to collaborate while waiting for meals (Shrivastava et al, 2018). 
+
+
+
+## References
+1. Grace, E. (2021). How Google is using people analytics to completely reinvent HR | peopleHum. peoplehum. Retrieved 10 October 2021, from https://www.peoplehum.com/blog/how-google-is-using-people-analytics-to-completely-reinvent-hr.
+2. Shrivastava, S., Nagdev, K., & Rajesh, A. (2018). Redefining HR using people analytics: the case of Google. Human Resource Management International Digest.
+3. Talent Management and HR. (2014), “How Google is using people analytics to completely reinvent HR”,
+available at: www.tlnt.com/how-google-is-using-people-analytics-to-completely-reinvent-hr-2/
+ 
 
